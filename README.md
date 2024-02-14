@@ -21,4 +21,5 @@ This Weather Dashboard app allows users to check the current weather and a 5 day
 No installation needed, visit https://orellanab5.github.io/Weather-Dashboard/
 
 ## Screenshot
+![My App](./assets/images/app.png)
 
